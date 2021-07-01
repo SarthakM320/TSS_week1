@@ -1,16 +1,19 @@
-# tss_week1
+# Demonstration App 
 
-A new Flutter project.
+This app is meant for explaining the usage of widgets.
 
-## Getting Started
+To clone this repository and try out the app for yourself, use this link to clone the repository. 
 
-This project is a starting point for a Flutter application.
+```
+https://github.com/SarthakM320/TSS_week1.git
+```
 
-A few resources to get you started if this is your first Flutter project:
+or download a zip file from this link:-
+```
+https://github.com/SarthakM320/TSS_week1
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Our basic app structure is this :- 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="app-structure.png">
+
